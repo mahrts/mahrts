@@ -33,16 +33,15 @@ I’m driven by developing ML systems that have real‑world impact, not just th
 
 ### 📌 Some Featured Projects
 
-- **[Random Forest Classifier API](https://github.com/mahrts/fstapi)**
-  Deployed ML model using FastAPI on Render
+- **[Deployed ML model using FastAPI on Render](https://github.com/mahrts/fstapi)**
   
   → Focus: model serving, API design, deployment  
   → Tech: Python, scikit-learn, FastAPI, pytest, github action  
 
-- **[Full mlops pipeline](https://github.com/mahrts/rental_price)**
+- **[Developed full mlops pipeline](https://github.com/mahrts/rental_price)**
   Develop full pipeline: from data ingestion to deployment
   
-  → Focus on clean and reproducible ml pipeline
+  → Focus: clean and reproducible ml pipeline
   → Focus: Python, sklearn, MlFlow, w&b, pytest, Git
 
 ### 🧠 Skills
