@@ -19,9 +19,9 @@ I specialize in the Math foundations of representation learning and generative m
 
 My work is grounded in three pillars:
 
-- Math → designing more interpretable and principled models
 - Engineering → writing clean, scalable, maintainable code
 - MLOps → building reproducible and reliable production-ready ML pipelines
+- Math → designing more interpretable and principled models
   
 I’m driven by developing ML systems that have real‑world impact, not just theoretical elegance.
 
