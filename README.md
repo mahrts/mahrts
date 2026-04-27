@@ -18,25 +18,30 @@ ML Engineer in training with a PhD in Applied Math.
 I specialize in the Math foundations of representation learning and generative models (VAEs, Flow Matching), and I like turning ideas into real, end‑to‑end ML systems.
 
 My work is grounded in three pillars:
+
 - Math → designing more interpretable and principled models
 - Engineering → writing clean, scalable, maintainable code
 - MLOps → building reproducible and reliable production-ready ML pipelines
+  
 I’m driven by developing ML systems that have real‑world impact, not just theoretical elegance.
 
 ### 🚀 Current Focus
+
 - Improving MLOps workflows (testing, reproducibility, CI/CD, infrastructures)
 - Writing clean and maintainable Python code
 - Building and deploying ML models with FastAPI and cloud platforms
 
 ### 📌 Some Featured Projects
 
-- **[Random Forest Classifier API](https://github.com/mahrts/fstapi)**  
+- **[Random Forest Classifier API](https://github.com/mahrts/fstapi)**
   Deployed ML model using FastAPI on Render
+  
   → Focus: model serving, API design, deployment  
   → Tech: Python, scikit-learn, FastAPI, pytest, github action  
 
 - **[Full mlops pipeline](https://github.com/mahrts/rental_price)**
   Develop full pipeline: from data ingestion to deployment
+  
   → Focus on clean and reproducible ml pipeline
   → Focus: Python, sklearn, MlFlow, w&b, pytest, Git
 
@@ -54,6 +59,7 @@ Python (clean code, modular design, testing), SQL, C/C++, R(Basics)
 ### 📚 Online Learning
 
 Udacity Nanodegrees:
+
   - Intermediate Python  
   - AI Programming with Python  
   - MLOps  
