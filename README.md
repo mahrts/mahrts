@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-ML Engineer in training with a PhD in Applied Math.  
+ML Engineer with a PhD in Applied Math.  
 I specialize in the Math foundations of representation learning and generative models (VAEs, Flow Matching), and I like turning ideas into real, end‑to‑end ML systems.
 
 My work is grounded in three pillars:
