@@ -27,8 +27,8 @@ I’m driven by developing ML systems that have real‑world impact, not just th
 
 ### 🚀 Current Focus
 
-- Improving MLOps workflows (testing, reproducibility, CI/CD, infrastructures)
-- Writing clean and maintainable Python code
+- Diving into MLOps best practices and infrastructures (Docker, Kubernetes, IaC, AWS, ...)
+- Writing clean and maintainable code
 - Building and deploying ML models with FastAPI and cloud platforms
 
 ### 📌 Some Featured Projects
