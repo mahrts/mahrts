@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ML Engineer with a PhD in Applied Math.  
-I specialize in the Math foundations of representation learning and generative models (VAEs, Flow Matching), and I like turning ideas into real, end‑to‑end ML systems.
+I specialize in the Math foundations of representation learning and generative models (VAEs, Flow Matching), and I like turning models into real, end‑to‑end ML systems.
 
 My work is grounded in three pillars:
 
@@ -23,7 +23,7 @@ My work is grounded in three pillars:
 - MLOps → building reproducible and reliable production-ready ML pipelines
 - Math → designing more interpretable and principled models
   
-I’m driven by developing ML systems that have real‑world impact, not just theoretical elegance.
+I’m driven by developing ML systems that have impact, not just theoretical elegance.
 
 ### 🚀 Current Focus
 
@@ -55,12 +55,12 @@ FastAPI, REST APIs, ML Pipeline, Docker
 **Programming:**  
 Python (clean code, modular design, testing), SQL, C/C++, R(Basics)
 
-### 📚 Online Learning
+### 📚 Other Online Learning
 
 Udacity Nanodegrees:
 
-  - Intermediate Python  
-  - AI Programming with Python  
-  - MLOps  
+  - MLOps
+  - AI Programming with Python
+  - Advanced Python techniques
 
 Continuously improving toward MLOps and ML Engeneer best practices.
