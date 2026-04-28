@@ -35,7 +35,8 @@ I’m driven by developing ML systems that have impact, not just theoretical ele
 
 - **[Deployed ML model using FastAPI on Render](https://github.com/mahrts/fstapi)**
   
-  → Focus: model serving, API design, deployment  
+  → Focus: model serving, API design, deployment
+  
   → Tech: Python, scikit-learn, FastAPI, pytest, github action  
 
 - **[Developed full mlops pipeline](https://github.com/mahrts/rental_price)**
@@ -43,6 +44,7 @@ I’m driven by developing ML systems that have impact, not just theoretical ele
   Develop full pipeline: from data ingestion to deployment
   
   → Focus: clean and reproducible ml pipeline
+
   → Tech: Python, sklearn, MlFlow, w&b, pytest, Git
 
 ### 🧠 Skills
