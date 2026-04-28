@@ -39,10 +39,11 @@ I’m driven by developing ML systems that have impact, not just theoretical ele
   → Tech: Python, scikit-learn, FastAPI, pytest, github action  
 
 - **[Developed full mlops pipeline](https://github.com/mahrts/rental_price)**
+
   Develop full pipeline: from data ingestion to deployment
   
   → Focus: clean and reproducible ml pipeline
-  → Focus: Python, sklearn, MlFlow, w&b, pytest, Git
+  → Tech: Python, sklearn, MlFlow, w&b, pytest, Git
 
 ### 🧠 Skills
 
