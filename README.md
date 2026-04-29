@@ -18,15 +18,15 @@ I specialize in the Math foundations of representation learning and generative m
 My work is grounded in three pillars:
 
 - Engineering → building reliable, testable, and maintainable systems
-- MLOps → ensuring reproductible and tractable pipeline
-- Mathematics → designing principled models with a focus on interpretability
+- MLOps → ensuring reproducible and tractable pipeline
+- Mathematics → Designing principled and empirically-sound models
 
 I’m driven by developing ML systems that have impact, not just theoretical elegance.
 
 ### 🚀 Current Focus
 
 * Building and deploying ML systems (FastAPI, cloud platforms)
-* Strengthening MLOps and engeneering best practices
+* Strengthening MLOps and engineering best practices
 * Staying up to date with modern ML trends (LLMs, generative AI)
 
 ### 📌 Some Featured Projects
@@ -35,13 +35,13 @@ I’m driven by developing ML systems that have impact, not just theoretical ele
   
   → Focus: model serving, API design, deployment
   
-  → Tech: Python, scikit-learn, FastAPI, pytest, github action  
+  → Tech: Python, FastAPI, pytest, github action  
 
 - **[End-to-End ML Pipeline (MLOps)](https://github.com/mahrts/rental_price)**
   
   → Focus: clean and reproducible ml pipeline
 
-  → Tech: Python, sklearn, MlFlow, w&b, pytest, Git
+  → Tech: Python, MlFlow, w&b, pytest, Git
 
 ### 🧠 Skills
 
