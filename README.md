@@ -31,7 +31,7 @@ I’m driven by developing ML systems that have impact, not just theoretical ele
 
 ### 📌 Some Featured Projects
 
-- **[Full_RAG_pipeline](https://github.com/mahrts/RAG)
+- **[Full_RAG_pipeline](https://github.com/mahrts/RAG)**
 
   → Focus: Developpig RAG-based app
   
@@ -58,7 +58,7 @@ PyTorch, scikit-learn, generative models (VAE, flow matching), Neural Networks
 FastAPI, REST APIs, ML Pipeline, Docker
 
 **Programming:**  
-Python (clean code, modular design, testing), SQL, C/C++, R(Basics)
+Python, SQL, C/C++, R(Basics)
 
 ### 📚 Other Online Learning
 
