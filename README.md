@@ -31,7 +31,7 @@ I’m driven by developing ML systems that have impact, not just theoretical ele
 
 ### 📌 Some Featured Projects
 
-- **[Full_RAG_pipeline](https://github.com/mahrts/RAG)**
+- **[RAG app.](https://github.com/mahrts/RAG)**
 
   → Focus: Developpig RAG-based app
   
