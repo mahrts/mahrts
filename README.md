@@ -1,4 +1,4 @@
-## ML Engeneer | Data Scientist | Applied Math Phd 
+## ML Engineer | Data Scientist | Applied Math Phd 
 <!--
 **mahrts/mahrts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -33,15 +33,15 @@ I’m driven by developing ML systems that have impact, not just theoretical ele
 
 - **[RAG app.](https://github.com/mahrts/RAG)**
 
-  → Focus: Developpig RAG-based app
+  → Focus: Developping RAG-based app
   
-  → Tech: openAI, vector database (chromadb), LLMs
+  → Tech: OpenAI, vector database (chromadb), LLMs
 
 - **[Production ML API (FastAPI, render, CI/CD)](https://github.com/mahrts/fstapi)**
   
   → Focus: model serving, API design, deployment
   
-  → Tech: Python, FastAPI, pytest, github action 
+  → Tech: Python, FastAPI, pytest, GitHub Actions
 
 - **[End-to-End ML Pipeline (MLOps)](https://github.com/mahrts/rental_price)**
   
@@ -50,22 +50,16 @@ I’m driven by developing ML systems that have impact, not just theoretical ele
   → Tech: Python, MlFlow, w&b, pytest, Git
 
 ### 🧠 Skills
-
-**ML & Data Science:**  
-PyTorch, scikit-learn, generative models (VAE, flow matching), Neural Networks
-
-**Engineering & MLOps:**  
-FastAPI, REST APIs, ML Pipeline, Docker
-
-**Programming:**  
-Python, SQL, C/C++, R(Basics)
+* **ML & Data Science:** PyTorch, Scikit-learn, Generative Modeling (VAE, Flow Matching, LLMs).
+* **Engineering & MLOps:** FastAPI, Docker, CI/CD, REST APIs.
+* **Programming:** Python, SQL, C/C++, R.
 
 ### 📚 Other Online Learning
 
 Udacity Nanodegrees:
 
   - MLOps
-  - AI Programming with Python
   - Advanced Python techniques
 
-I’m actively seeking ML/MLOps Engineer / Data Scientist roles (Industry or Academia) where I can contribute.
+---
+📫 **Looking for ML/MLOps Engineer or Data Scientist roles (Industry or academia) where I can contribute.**
