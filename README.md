@@ -62,4 +62,4 @@ Udacity Nanodegrees:
   - Advanced Python techniques
 
 ---
-📫 **Looking for ML/MLOps Engineer or Data Scientist roles (Industry or academia) where I can contribute.**
+📫 **Looking for ML/MLOps Engineer or Data Scientist roles where I can contribute.**
