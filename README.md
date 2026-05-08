@@ -31,11 +31,17 @@ I’m driven by developing ML systems that have impact, not just theoretical ele
 
 ### 📌 Some Featured Projects
 
+- **[Full_RAG_pipeline](https://github.com/mahrts/RAG)
+
+  → Focus: Developpig RAG-based app
+  
+  → Tech: openAI, vector database (chromadb), LLMs
+
 - **[Production ML API (FastAPI, render, CI/CD)](https://github.com/mahrts/fstapi)**
   
   → Focus: model serving, API design, deployment
   
-  → Tech: Python, FastAPI, pytest, github action  
+  → Tech: Python, FastAPI, pytest, github action 
 
 - **[End-to-End ML Pipeline (MLOps)](https://github.com/mahrts/rental_price)**
   
@@ -62,4 +68,4 @@ Udacity Nanodegrees:
   - AI Programming with Python
   - Advanced Python techniques
 
-I’m actively seeking ML/MLOps Engineer / Data Scientist roles where I can contribute.
+I’m actively seeking ML/MLOps Engineer / Data Scientist roles (Industry or Academia) where I can contribute.
