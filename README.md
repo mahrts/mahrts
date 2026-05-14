@@ -29,26 +29,6 @@ I’m driven by developing ML systems that have impact, not just theoretical ele
 * Strengthening MLOps and engineering best practices
 * Staying up to date with modern ML trends (LLMs, generative AI)
 
-### 📌 Some Featured Projects
-
-- **[RAG app.](https://github.com/mahrts/RAG)**
-
-  → Focus: Developping RAG-based app
-  
-  → Tech: OpenAI, vector database (chromadb), LLMs
-
-- **[Production ML API (FastAPI, render, CI/CD)](https://github.com/mahrts/fstapi)**
-  
-  → Focus: model serving, API design, deployment
-  
-  → Tech: Python, FastAPI, pytest, GitHub Actions
-
-- **[End-to-End ML Pipeline (MLOps)](https://github.com/mahrts/rental_price)**
-  
-  → Focus: clean and reproducible ml pipeline
-
-  → Tech: Python, MlFlow, w&b, pytest, Git
-
 ### 🧠 Skills
 * **ML & Data Science:** PyTorch, Scikit-learn, Generative Modeling (VAE, Flow Matching, LLMs).
 * **Engineering & MLOps:** FastAPI, Docker, CI/CD, REST APIs.
