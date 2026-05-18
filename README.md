@@ -38,8 +38,7 @@ I’m driven by developing ML systems that have impact, not just theoretical ele
 
 Udacity Nanodegrees:
 
-  - MLOps
-  - Advanced Python techniques
+  - MLOps, GenAI, SQL, Advanced Python Techniques
 
 ---
 📫 **Looking for ML/MLOps Engineer or Data Scientist, or Research roles where I can contribute.**
